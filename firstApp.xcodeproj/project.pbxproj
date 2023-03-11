@@ -58,6 +58,7 @@
 			);
 			path = firstApp;
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		E7A2E13829BBEB9700A13E53 /* Preview Content */ = {
 			isa = PBXGroup;
