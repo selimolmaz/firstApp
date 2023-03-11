@@ -18,7 +18,7 @@ struct ContentView: View {
                     .foregroundColor(Color.blue)
                     .imageScale(.large)
                     .font(.largeTitle)
-                Text("Tip Calculator")
+                Text("Tip Calculator V12")
                     .fontWeight(.heavy)
             }
             HStack {
